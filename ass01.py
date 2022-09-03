@@ -12,4 +12,4 @@ def my_function (n):
             if (n % x ==0):
                     return False
         return True
-print(my_function(5))
+print(my_function(6))
